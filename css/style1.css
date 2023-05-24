@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
+
+*{
+    cursor: crosshair;  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'DM Sans';
+}
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(59,58,58,1) 100%);
+}
+
+.card{
+    background: rgb(5,4,4);
+    background: linear-gradient(180deg, rgba(5,4,4,1) 0%, rgba(59,58,58,1) 100%);
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+    align-items: center;
+    width: 600px;
+    height: 775px;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.1), 0px 6px 12px rgba(0, 0, 0, 0.2), 0px 0px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 25px;
+}
+
+.title-card {
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+    margin-bottom: 5px;
+    color: #d7d7d7
+}
+
+.text-card{ 
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.8px;
+    color: #a4a4a4;
+}
+
+.links-icon{
+    margin-top: 15px;
+}
+
+.git-logo{
+    width: 1.5rem;
+}
+
+.discord-logo{
+    width: 1.5rem;
+    margin-left: 10px;
+}
+
+footer{
+    background-color: #373737;
+    height: 49.4px;
+    margin-left: 0;
+}
+
+.credit-p{
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+    color: #a4a4a4;
+}
+
+.update-p{
+    margin-top: 20px;
+    margin-left: 1720px;
+    position: absolute;
+    color: #828282;
+}
+
+.p-1{
+    color: #c2c2c2;
+    margin-top: 40px;
+}
+
+.btn1{
+    margin-top: 30px;
+    padding-left: 215px;
+    padding-right: 215px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    transition: 0.5s;
+    border: #cdcdcd;
+    background-color: #b9b9b9;
+    box-shadow: 0px 15px 30px rgba(255, 255, 255, 0.1), 0px 6px 12px rgba(255, 255, 255, 0.2), 0px 0px 6px rgba(255, 255, 255, 0.1);
+    color: #242424;
+}
+
+.btn1 .img-btn1{
+    position: absolute;
+    margin-left: -25px;
+    width: 1rem;
+}
+
+.btn1:hover{
+    margin-top: 40px;
+    padding-left: 220px;
+    padding-right: 220px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    border: #000;
+    box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.1), 0px 6px 12px rgba(0, 0, 0, 0.2), 0px 0px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn2{
+    margin-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    transition: 0.5s;
+    border: #cdcdcd;
+    background-color: #b9b9b9;
+    box-shadow: 0px 15px 30px rgba(255, 255, 255, 0.1), 0px 6px 12px rgba(255, 255, 255, 0.2), 0px 0px 6px rgba(255, 255, 255, 0.1);
+    color: #242424;
+}
+
+.btn2 .img-btn2{
+
+    position: absolute;
+    margin-left: 50px;
+    width: 1.2rem;
+}
+
+.btn2 span{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.btn2:hover{
+    margin-top: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    border: #000;
+    box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.1), 0px 6px 12px rgba(0, 0, 0, 0.2), 0px 0px 6px rgba(0, 0, 0, 0.1);
+}
+
+.p-2{
+    color: #c2c2c2;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.logo-img1{
+    width: 4rem;
+}
+
+.logo-img2{
+    width: 4.6rem;
+}
+
+.logo-img3{
+    width: 4rem;
+}
+
+.logo-img4{
+    width: 4rem;
+}
+
+.logo-img5{
+    width: 4rem;
+}
+
+.logo-img6{
+    margin-left: 2px;
+    width: 4.3rem;
+}
+
+.p-3{
+    color: #c2c2c2;
+    margin-bottom: 20px;
+}
+
+.copied{
+    margin-top: 5px;
+    color: #fff;
+}
